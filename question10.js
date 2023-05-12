@@ -1,6 +1,6 @@
 // 10. program to count total no. of words in a string
 
-let string ="This is a string hello"
+let string ="This is a string",
 
 wordCount = 0
 
